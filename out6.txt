@@ -1,0 +1,70 @@
+if   : Keyword_if
+then   : Keyword_then
+else   : Keyword_else
+or   : Keyword_or
+and   : Keyword_and
+not   : Keyword_not
+pair   : Keyword_pair
+first   : Keyword_first
+second   : Keyword_second
+nil   : Keyword_nil
+i   : Id
+the   : Id
+els   : Id
+o   : Id
+an   : Id
+no   : Id
+pai   : Id
+firs   : Id
+secon   : Id
+ni   : Id
+iff   : Id
+thena   : Id
+elsep   : Id
+ore   : Id
+andq   : Id
+not   : Keyword_not
++   : Add
+pair   : Keyword_pair
+? : Lexical Error, invalid token
+first   : Keyword_first
+@ : Lexical Error, invalid token
+second   : Keyword_second
++   : Add
+nil   : Keyword_nil
+-   : Sub
+If   : Id
+THEN   : Id
+Else   : Id
+oR   : Id
+aNd   : Id
+noT   : Id
+PAIR   : Id
+firstHand   : Id
+secondHand   : Id
+nilnull   : Id
+ifthenelse   : Id
+then316   : Id
+eelse   : Id
+orttt   : Id
+CS316and   : Id
+not   : Keyword_not
+# : Lexical Error, invalid token
+Ppair   : Id
+fir   : Id
+% : Lexical Error, invalid token
+st   : Id
+$ : Lexical Error, invalid token
+second   : Keyword_second
+n   : Id
+[ : Lexical Error, invalid token
+il   : Id
+CS316   : Id
+_ : Lexical Error, invalid token
+CS316project1   : Id
+_ : Lexical Error, invalid token
+and   : Keyword_and
+_ : Lexical Error, invalid token
+abvc   : Id
+_ : Lexical Error, invalid token
+or   : Keyword_or

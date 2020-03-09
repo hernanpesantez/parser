@@ -1,0 +1,35 @@
+5e+
+ : Lexical Error, invalid token
++5E-
+ : Lexical Error, invalid token
+-5e+
+ : Lexical Error, invalid token
+1234E-
+ : Lexical Error, invalid token
++1234e+
+ : Lexical Error, invalid token
+-1234E-
+ : Lexical Error, invalid token
+123.456e+
+ : Lexical Error, invalid token
+123.456E-
+ : Lexical Error, invalid token
+123.E-
+ : Lexical Error, invalid token
+.456e+
+ : Lexical Error, invalid token
++123.456e+
+ : Lexical Error, invalid token
++123.456E-
+ : Lexical Error, invalid token
++123.E-
+ : Lexical Error, invalid token
++.456e+
+ : Lexical Error, invalid token
+-123.456e+
+ : Lexical Error, invalid token
+-123.456E-
+ : Lexical Error, invalid token
+-123.E-
+ : Lexical Error, invalid token
+-.456e+ : Lexical Error, invalid token

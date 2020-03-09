@@ -1,0 +1,33 @@
+5   : Int
++5   : Int
+-5   : Int
+1234   : Int
++1234   : Int
+-1234   : Int
++   : Add
+-   : Sub
+*   : Mul
+/   : Div
+(   : LParen
+)   : RParen
+{   : LBrace
+}   : RBrace
+<   : Lt
+>   : Gt
+<=   : Le
+>=   : Ge
+=   : Eq
+<   : Lt
+=   : Eq
+>   : Gt
+=   : Eq
+[ : Lexical Error, invalid token
+] : Lexical Error, invalid token
+| : Lexical Error, invalid token
+| : Lexical Error, invalid token
+& : Lexical Error, invalid token
+& : Lexical Error, invalid token
+! : Lexical Error, invalid token
+, : Lexical Error, invalid token
+: : Lexical Error, invalid token
+; : Lexical Error, invalid token
